@@ -1,8 +1,7 @@
 # VarianESAPI-ControlPointsPlot
-
+![image](images/image1.png)
 This script can be used to plot the dose rate against gantry angle for VMAT plans created in the Eclipse treatment planning system.
 
-![image](images/image1.png)
 
 ## How to use the script
 
