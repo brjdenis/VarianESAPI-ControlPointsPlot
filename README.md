@@ -2,13 +2,13 @@
 
 This script can be used to plot the dose rate against gantry angle for VMAT plans created in the Eclipse treatment planning system.
 
-![image1](CodeCogsEqn.png)
+![image](images/CodeCogsEqn.png)
 
 ## How to use the script
 
 Download the content of the *dlls* folder to the directory where you keep your dlls. Register the ControlPointsPlot.esapi.dll file with Eclipse. The script will use [OxyPlot](https://github.com/oxyplot/oxyplot) library to plot this "derivative":
 
-![image2](image.png)
+![image](images/image2.png)
 
 ## How to change the script
 
